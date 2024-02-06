@@ -56,8 +56,8 @@ td
   
   ul li {
     float:left;/* line up horizontally */
-    color:#000;
-    background-color:blueviolet;
+    color:#ffffff;
+    background-color:rgb(84, 82, 86);
   }
   
   ul a {
@@ -67,6 +67,6 @@ td
   
   /* on hover change the link color*/
   ul a:hover {  
-    background-color: #555;
-    color:white;
+    background-color: #ff6c6c;
+    color:rgb(0, 0, 0);
   }
