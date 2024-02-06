@@ -52,6 +52,7 @@ td
     margin: 0;
     padding: 0;
     background-color:rgb(84, 82, 86);
+    overflow: hidden;
   }
   
   ul li {
