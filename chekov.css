@@ -22,5 +22,13 @@
 }
 table
 {
-    border: 2px; color: red;
+    border: solid 2px;
+}
+th
+{
+    color:red
+}
+td
+{
+    color:darkslategray
 }
