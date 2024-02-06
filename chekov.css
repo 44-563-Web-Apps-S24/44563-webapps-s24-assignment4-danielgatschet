@@ -26,9 +26,11 @@ table
 }
 th
 {
+    border: solid 2px;
     color:red
 }
 td
 {
+    border: solid 2px;
     color:darkslategray
 }
