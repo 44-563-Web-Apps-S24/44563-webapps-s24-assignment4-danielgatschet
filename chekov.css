@@ -13,22 +13,22 @@
 }
 .marina:hover{
     color: cadetblue;
-    border: dotted 1px;
+    border: dotted 3px;
     text-shadow: 3px 3px 5px cyan;
 }
 .voitski:hover{
     color: chocolate;
-    border: dotted 1px;
+    border: dotted 3px;
     text-shadow: 3px 3px 5px rgb(63, 43, 3);
 }
 .astroff:hover{
     color: deeppink;
-    border: dotted 1px;
+    border: dotted 3px;
     text-shadow: 3px 3px 5px rgb(238, 160, 226);
 }
 .serebrakoff:hover{
     color: blueviolet;
-    border: dotted 1px;
+    border: dotted 3px;
     text-shadow: 3px 3px 5px rgb(40, 0, 80);
 }
 table
