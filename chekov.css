@@ -46,7 +46,7 @@ td
     color:darkslategray
 }
   
-  ul.navbar-horizontal {
+  ul{
     /* remove these */
     list-style-type: none;
     margin: 0;
@@ -54,19 +54,19 @@ td
   
   }
   
-  ul.navbar-horizontal li {
+  ul li {
     float:left;/* line up horizontally */
     color:#000;
     background-color:blueviolet;
   }
   
-  ul.navbar-horizontal a {
+  ul a {
     display:block;
     padding:8px
   }
   
   /* on hover change the link color*/
-  ul.navbar-horizontal a:hover {  
+  ul a:hover {  
     background-color: #555;
     color:white;
   }
