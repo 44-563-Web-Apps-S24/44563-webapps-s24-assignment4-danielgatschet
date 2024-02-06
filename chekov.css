@@ -45,11 +45,6 @@ td
     border: solid 2px;
     color:darkslategray
 }
-
-ul.navbar-vertical a:hover {  
-    background-color: #555;
-    color:white;
-  }
   
   ul.navbar-horizontal {
     /* remove these */
